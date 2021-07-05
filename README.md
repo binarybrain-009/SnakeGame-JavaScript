@@ -1,2 +1,7 @@
-# SnakeGame-JavaScript
-Built a Snake game using HTML for Frontend and Javascript programming for the logic.
+# Snake-JavaScript
+
+The Snake game, created using JavaScript, and The HTML5 canvas.
+
+Download the starter template, and follow the tutorial on youtube step by step.
+
+Tutorial link : https://youtu.be/9TcU2C1AACw
